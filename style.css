@@ -1,0 +1,52 @@
+/* index */
+
+
+#name {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    font-weight: bold;
+    color: white;
+    background-color: beige;
+}
+
+/* shared */
+
+.text {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.steptext {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.headline {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.quote {
+    color: gray;
+    font-weight: bold;
+}
+
+.picture {
+    height: auto;
+    width: 300px;
+}
+
+/* lasagna */
+
+.flair {
+    color:green ;
+}
+
+
+/* bowl of cereal */
+
+
